@@ -1,0 +1,112 @@
+*{
+	margin: 0px;
+}
+
+.back{
+	width: 970px;
+}
+
+.banner{
+	background-color: #FEFEFE;
+	padding: 20px;
+	font-weight: bold;
+
+}
+
+.name{
+	display: inline-block;
+}
+
+.mast{
+	display: inline-block;
+	float: right;
+	margin-right: 20px;
+}
+
+.back{
+	background-color: #705863;
+}
+
+.portdiv{
+	display: inline-block;
+}
+.port{
+	height: 250px;
+	width: 425px;
+	border: solid #C0C0C0 5px;
+	display: inline-block;
+	margin: 20px;
+}
+
+.aboutinfo{
+	margin-top: 20px;
+	margin-right: 20px;
+	display: inline-block;
+	float: right;
+	width: 450px;
+	height: 260px;
+	vertical-align: top;
+	background-color: white;
+}
+
+.aboutinfo p{
+	margin-bottom: 20px;
+}
+
+.maindivs{
+	display: inline-block;
+	width: 294px;
+	height: 575px;
+	vertical-align: bottom;
+	align-items: center;
+	margin: 0px 0px 0px 20px;
+	background-color: #EFE8EE;
+}
+h2{
+	background-color: #888693;
+	color: white;
+	padding: 5px;
+}
+
+	p{
+		padding: 5px;
+		margin-bottom: 5px;
+		/*background-color: white;	*/
+	}
+
+.samepic{
+	height: 150px;
+	width: 294px;
+}
+
+.button{
+	text-align: center;
+}
+
+.descs{
+	padding: 10px;
+	height: 175px;
+	/*margin-bottom: 0px;*/
+}
+
+.techpic{
+	height: 40px;
+	width: 40px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.foot{
+	margin-top: 20px;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #FEFEFE;
+	width: 970px;
+}
+
+.footpic{
+	height: 15px;
+	width: 15px;
+	margin: 0 5px; 
+}
