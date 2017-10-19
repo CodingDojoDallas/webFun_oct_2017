@@ -15,6 +15,7 @@ https://www.dropbox.com/s/h3texmoqm801j8w/github_workflow_v4.pdf?dl=0
 # Resources
 [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript "MDN JavaScript Documentation") <br>
 [W3Schools JavaScript Documentation](https://www.w3schools.com/js/ "W3Schools - JavaScript") <br>
+[W3Schools CSS Documentation](https://www.w3schools.com/cssref/ "W3Schools - JavaScript") <br>
 
 # Schedule
 
