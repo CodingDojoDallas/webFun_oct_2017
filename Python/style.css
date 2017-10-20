@@ -1,0 +1,182 @@
+.container{
+	background-color: #145174;
+	width: 970px;
+}
+
+.text{
+	text-align: right;
+	color: white;
+	padding-right: 75px;
+	padding-top: 10px;
+}
+.logo{
+	display: inline-block;
+	padding-top: 20px;
+	width: 200px;
+	height: 100px;
+}
+
+.logosz{
+	height: 100px;
+}
+
+.search{
+	display: inline-block;
+	float: right;
+	padding-right: 30px;
+	width: 200px;
+	text-align: center;
+	color: white;
+}
+	.search a{
+		color: yellow;
+	}
+	.search span{
+		color: black;
+	}
+	.searchbox{
+		margin-left: 20px;
+		text-align: center;
+	}
+
+/*.gobut{
+	margin-left: 5px;
+	margin-bottom: 10px;
+	height: 30px;
+}*/
+
+button{
+	height: 30px;
+	padding-top: 19px;
+}
+	.search p{
+		/*float: right;*/
+	}
+	.search textarea{
+		text-align: center;
+		margin-top: 8px; 
+	}
+
+.form{
+	border-radius: 10px;
+	background-color: #444444;
+	width: 275px;
+	height: 50px;
+	float: right;
+
+}
+
+.navbar{
+	margin-left: 80px; 
+	padding: 1px;
+	background-color: #337EAA;
+	width: 840px;
+	text-align: center;
+	border-radius: 5px;
+
+}
+	.navbar li{
+		display: inline;
+		padding-right: 50px;
+	}
+	.navbar a{
+		color: white;
+		text-decoration: none;
+	}
+.links{
+	padding: 20px;
+	margin-left: 30px;
+	/*margin-right: 20px;*/
+	font-size: 20px;
+	width: 250px;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+}
+
+	li{
+	list-style-type: square;
+}
+
+	.links li{
+	margin-bottom: 10px;
+	list-style-position: inside;
+}
+	.links li a{
+		color: white;
+	}
+
+
+.maincontent{
+	display: inline-block;
+	width: 575px;
+	height: 250px;
+	text-align: center;
+	/*margin-left: 25px;*/
+}
+	.desc{
+		color: white;
+	}
+	.yellow{
+		color: yellow;
+	}
+
+.whiteback{
+	margin-top: 10px;
+	background-color: white;
+	height: 303px;
+}
+
+hr { 
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    border-color: #68A9D2;
+    width: 375px;
+}
+.start{
+	width: 300px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: white; 
+	margin-left: 150px;
+	margin-right: 110px;
+	text-align: center;
+}
+
+
+.apps{
+	width: 300px;
+	display: inline-block;
+	background-color: white;
+	text-align: center;
+}
+
+.bullet{
+	color: #68A9D2;
+}
+.foot{
+	background-color: #186D9C;
+	margin-top: -16px;
+	height: 80px;
+	padding-top: 50px;
+	text-align: center;
+
+}
+
+	.foot li{
+		padding-top: 45px;
+		display: inline;
+		padding-right: 40px;
+	}
+	.foot a{
+		color: white;
+		text-decoration: none;
+
+h3{
+	text-align: center;
+}
