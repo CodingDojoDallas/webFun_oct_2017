@@ -1,0 +1,242 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: gotham-rounded-book;
+}
+
+.container{
+	width: 970px;
+}
+	.header{
+		margin-top: -25px;
+		}
+		.header img{
+			width: 85px;
+			position: relative;
+			display: inline-block;
+			bottom: -25px;
+		}
+		.header p{
+			display: inline-block;
+			font-size: 40px;
+
+		}
+		.header span{
+			color: #2E6E9E;
+		}
+		.header h2{
+			color: white;
+			background-color: #437DA5;
+			padding: 10px;
+		}
+	.sidebar{
+		display: inline-block;
+		padding-top: 30px;
+		width: 225px;	
+		border-bottom: solid;
+		border-width: 1px;
+		border-color: gray;
+		}
+		.sidebar h4{
+			text-decoration: none;
+			font-size: 19px;
+			padding-bottom: 10px;
+			display: inline-block;
+		}
+		.sidebar span{
+			color: red;
+			display: inline-block;
+		}
+		.sidebar h5{
+			font-size: 17px;
+			padding-bottom: 30px;
+			display: inline-block;
+		}
+		.sidebar h5 span{
+			color: #3F6A9E;
+			text-decoration: none;
+			font-size: 15px;
+			display: inline-block;
+		}
+		button{
+			display: inline-block;
+			margin-bottom: 2px;
+			width: 225px;
+			border-radius: 10px;
+			height: 40px;
+			font-size: 17px;
+			color: white;
+		}
+			.but1{
+				background-color: #056A9C;
+				display: inline-block;
+			}
+
+			.but2{
+				background-color: #F5923E;
+				margin-bottom: 30px;
+				display: inline-block;
+			}
+	.advert{
+		width: 225px;
+		text-align: center;
+		color: black;
+		font-size: 22px;
+		margin-top: -53px;
+		display: inline-block;
+		position: relative;
+		/*padding-right: 500px;*/
+
+	}
+		.advert h3{
+			bottom: -105px;
+			position: relative;
+			color: white;
+		}
+		.back{
+			width: 225px;
+		}
+		.ninja{
+			position: relative;
+			top: -215px;
+			width: 85px;
+			text-align: center;
+
+		}
+		.advert button{
+			background-color: #60D1DE;
+			top: -195px;
+			position: relative;
+			width: 190px;
+			height: 35px;
+		}
+	.dns{
+		display: inline-block;
+		vertical-align: top;
+		/*padding-top: 10px;*/
+		border-bottom: solid 2px;
+		padding-bottom: 15px;
+		width: 690px;
+		margin-left: 50px;
+		border-color: gray;
+		height: 55px;
+	}
+		.dnstext{
+			padding-top: 10px;
+		}
+		.house{
+			width: 25px;
+			text-align: left;
+			display: inline-block;
+			vertical-align: top;
+			padding-top: 10px;
+
+		}
+		.dns p{
+			color: #2E6E9E;
+			display: inline-block;
+			vertical-align: top;
+			/*padding-top: 0px;*/
+			font-size: 20px;
+		}
+		.phone{
+			width: 50px;
+			position: relative;
+			display: inline-block;
+			padding-left: 400px;
+			padding-top: 10px;
+			/*vertical-align: top;*/
+		}
+		#contact{
+			width: 120px;
+			text-align: right;
+			vertical-align: top;
+			margin-top: -5px;
+		}
+		#time{
+			display: inline-block;
+			text-align: right;
+			font-size: 10px;
+			width: 150px;
+		}
+		#num{
+			display: inline-block;
+			text-align: right;
+			width: 150px;
+			font-size: 25px;
+			color:  #01B0D7;
+			font-weight: bold;
+		}
+		#intnum{
+			display: inline-block;
+			text-align: right;
+			vertical-align: top;
+			width: 150px;
+			font-size: 10px;
+		}
+	#maincontent{
+		width: 690px;
+		display: inline-block;
+		vertical-align: top;
+		margin-top: -185px;
+		padding-left: 50px;
+	}	
+		#maincontent ul{
+			padding-left: 50px;
+			padding-top: 5px;
+		}
+		#maincontent li{
+			font-size: 15.6px;
+			padding-bottom: 5px;
+		}
+		#maincontent img{
+			width: 300px;
+			padding-left: 190px;
+			padding-top: 10px;
+			padding-bottom: 10px;
+		} 
+			#maincontent ol{
+			padding-left: 50px;
+			padding-top: 5px;
+		}
+		#maincontent h3{
+			color: #3F7EA2;
+		}
+		#maincontent span{
+			color: #15B5D9;
+		}
+	.big3{
+		display: inline-block;
+		padding-left: 10px;
+		vertical-align: top;
+		margin-top: -220px;
+		padding-top: 20px;
+		margin-left: 270px;
+		border-top: solid 5px;
+		border-left: solid 5px;
+		border-right: solid 5px;
+		border-color: #357FA2;
+		width: 675px;
+		height: 110px;
+
+	}
+		.big3 img{
+			width: 100px;
+			display: inline-block;
+			padding-right: 5px; 
+		}
+		.big3 h3{
+			display: inline-block;
+			vertical-align: top;
+		}
+		.big3 p{
+			display: inline-block;
+			padding-left: 110px;
+			vertical-align: top; 
+			margin-top: -65px;
+			/*margin-bottom: 10px;*/
+		}
+
+			#learn{
+			margin-top: -25px;
+		}
