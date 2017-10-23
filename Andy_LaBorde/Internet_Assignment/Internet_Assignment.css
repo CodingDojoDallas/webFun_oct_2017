@@ -1,0 +1,224 @@
+#container{
+	width: 970px;
+	background: white;
+}
+.header{
+	display: inline-block;
+	width: 970px;
+}
+	.header img{
+		width: 150px;
+		position: relative;
+		vertical-align: top;
+		position: relative;
+		bottom:-25px;
+
+	}
+	.header h1 {
+		font-size: 40px;
+		display: inline-block;
+		margin-bottom: 0px;
+		vertical-align: bottom;
+	}
+	.header p {
+		font-weight: bold;
+		font-size: 24px;
+		background: #116D9E;
+		color: white;
+		padding: 20px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		
+	}
+	.header span {
+		color: #2D79A4;
+	}
+.sidebar {
+	font-weight: bold;
+	width: 210px;
+	display: inline-block;
+	padding-bottom: 20px;
+	border-bottom: 3px solid black;
+
+		
+}
+	.sidebar h4 span{
+		color: red;
+	}
+	.sidebar p span{
+		color: #2D79A4;
+	}
+	.but1 {
+		padding: 10px;
+		width: 100%;
+		background: #2D79A4;	
+		border-radius: 5px;
+	}
+	.but2 {
+		padding: 10px;
+		width: 100%;
+		background: orange;
+		border-radius: 5px;
+	}
+	.callbar {
+	display: inline-block;
+	border-bottom: 3px solid black;
+	width: 700px;
+	margin-left: 38px;
+	vertical-align: top;
+	margin-top: 15px;
+	} 
+	
+	.callbar a{
+		padding-top: 10px;
+		display: inline-block;
+		text-decoration: none;
+		vertical-align: top;
+		font-size: 20px;
+	}
+	.callbar p {
+		display: inline-block;
+		font-size: 14px;
+		text-align: right;
+		width: 180px;
+		margin-top: 2px;
+		margin-bottom: 2px;
+			}
+	
+	.text {
+		text-align: right;
+		display: inline-block;
+
+	}
+	.text h1{
+		color: #4991BA;
+		margin: 0px;
+
+	}
+	.home {
+		vertical-align: top;
+		
+		width: 32px;
+	}
+	.phone{
+		text-align: right;
+		padding-left: 370px;
+		width: 60px;
+	}
+.ads {
+	width: 220px;
+	text-align: center;
+	color: white;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 28px;
+	position: relative;
+	top: -55px;
+
+}
+	.back {
+		width: 100%;
+	}
+	.ninja {
+		text-align: center;
+		position: relative;
+		top: -210px;
+		width: 85px;
+		padding-left: 59px;
+		display: block;
+			}
+	.ads h3{
+		position: relative;
+		bottom: -112px;
+		font-size: 26px;
+		margin: 0px;
+		display: inline-block;
+	}
+	.ads button {
+		text-align: center;
+		position: relative;
+		top: -180px;
+		width: auto;
+		width: 80%;
+		height: 30px;
+		border-radius: 5px;	
+		background: lightblue;	
+	}
+.info {
+	display: inline-block;
+	width: 650px;
+	padding: 10px;
+	margin: 15px;
+	position: relative;
+	top: -139px;
+}
+	.info h2 {
+		color: teal;
+	}
+	.info span {
+		color: teal;
+	}
+	.info img{
+		position: relative;
+		right: -244px;
+		width: 250px;
+	}
+	.info a {
+		font-width: bold;
+		text-decoration: none;
+	}
+.footer {
+	position: relative;
+	top: -162px;
+	display: inline-block;
+	width: 600px;
+	height: 177px;
+	position: relative;
+	left: 345px;
+	border-top: 3px solid black;
+	border-right: 3px solid black;
+	border-left: 3px solid black;
+}
+	.footer img {
+		width: 100px;
+		position: relative;
+		bottom: -29px;
+		padding-right: 30px;
+		padding-left: 15px;
+	}
+	.footer h3 {
+		color: teal;
+		display: inline-block;
+		width: 400px;	
+		position: relative;
+		position: relative;
+		top: -60px;
+		right: -29px;
+
+
+	}
+	.footer p {
+		display: inline-block;
+		width: 400px;
+		padding-left: 130px;
+		position: relative;
+		top: -91px;
+		right: -50px;
+	}
+	.footer span {
+		font-style: italic;
+	}
+	.footer a {
+		text-decoration-style: none;
+		color: teal;
+	}
+
+
+
+
+
+
+
+
+
+

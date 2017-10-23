@@ -1,0 +1,161 @@
+#container {
+	width: 970px;
+	background: #145274;
+}
+
+.header img {
+	width: 30%;
+	display: inline-block;
+	margin-right: 300px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+.text {
+	text-align: right;
+	margin: 0px;
+	width: 300px;
+	display: inline-block;
+	font-size: 14px;
+	vertical-align: top;
+}
+.text p {
+	color: white;
+	margin: 6px 5px;
+}
+.text a{
+	color: yellow;
+}
+
+.submit {
+	width: 200px;
+	background: #444444;
+	padding: 10px;
+	vertical-align: top;
+	display: inline-block;
+	text-align: right;
+	border-radius: 10px;
+	box-shadow: 2px 2px black;
+}
+.searchbox {
+	box-sizing: 100px;
+	padding: 10px 15px 10px 15px;
+}
+.button {
+	background: #1B4F78;
+	width: 30px;
+	display: inline-block;
+	border-radius: 5px;
+}
+.navbar {
+	width: 80%;
+	background: #2279AA;
+	text-align: center;
+	margin-left: 80px;
+	border-radius: 5px;
+	box-shadow: 2px 2px black;
+	padding: 15px 0px 15px 0px;	
+}
+.navbar a{
+	color: white;
+	margin: 2%;
+	text-decoration-line: none;
+	font-size: 20px;
+	font-style: 
+}
+.navbox{
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+	margin: 3%;
+	color: yellow;
+}
+.navbox ul {
+	text-align: center;
+	list-style-position: inside;
+	line-height: 30px;
+	list-style-i
+}
+.navbox ul li:before {
+		 content: "\00BB";
+	     }
+.navbox a{
+	color: white;
+}
+.info {
+	text-align: center;
+	display: inline-block;
+	width: 60%;
+	color: white;
+	font-size: 15px;
+}
+.info span {
+	color: yellow;
+	font-size: 20px;
+	font-style: italic;
+}
+#midlists {
+	background: white;
+	display: inline-block;
+	text-align: center;
+	width:100%;
+	
+}
+	#midlists ul {
+		list-style-type: square;
+	}
+		#midlists a{
+			color: teal;
+			text-decoration-line: none;
+		}
+		#midlists p{
+			font-size: 14px;
+		}
+			
+	
+	.GetList {
+	display: inline-block;
+	width: 300px;
+	vertical-align: top;
+	margin: auto 50px auto 50px;
+	}
+	.Applist {
+		display: inline-block;
+		width: 320px;
+		vertical-align: top;
+		margin:auto 50px auto 50px;
+	}
+.footer {
+	width: 970px;
+	text-align: center;
+	margin: 10px auto 10px auto;
+	padding-top: 20px;
+	color: white;
+
+	}
+	.footer a{
+		color: white;
+		text-decoration-line: none;
+		width: 33%;
+		padding: 30px 30px 0px 30px;
+	}
+	.footer p{
+		font-size: 12px;
+		padding-bottom: 2px;
+	}
+
+hr {
+	background: #68A9D2;
+	
+	padding: 3px;
+	border-style: none;
+}
+
+
+
+
+
+
+
+
+
