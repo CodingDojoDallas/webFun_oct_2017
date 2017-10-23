@@ -1,0 +1,278 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 970px;
+	background-color: #1A1A1A;
+	padding: 5px;
+}
+
+.header{
+	padding-top: 20px;
+	background-color: #1A1A1A;
+	height: 90px;
+}
+
+	.header p{
+		color: #FFFFFF;
+		float: right;
+		padding-top: 5px;
+
+	}
+
+.navbar{
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#6B6B6B, black); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#6B6B6B, black); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#6B6B6B, black); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#6B6B6B, black); /* Standard syntax */
+	height: 40px;
+
+}
+
+	.navbar ul li{
+		text-decoration: none;
+		display: inline-block;
+		padding-left: 20px;
+		padding-top: 10px;
+		color: silver;
+	}
+
+
+
+.mainpic{
+	width: 970px;
+}
+
+
+hr{
+	background-color: #6B6B6B;
+	height: 5px;
+	border: none;
+	margin-top: -4px; 
+}
+
+
+
+
+
+
+.tile1{
+	background-color: #1A1A1A;
+	display: inline-block;	
+	width: 238px;
+	margin-left: 1px;
+	padding-top: 30px;
+	height: 105px;
+}
+
+	.minipic{
+		display: inline-block;
+		float: left;
+	}
+
+	.tile1 h3{
+		display: inline-block;
+		padding-right: 50px;
+	}
+
+	.tile1 p{
+		display: inline-block;
+		float: right;
+		width: 190px;
+		font-size: 16px;
+		color: silver;
+	}
+
+	.midtitle{
+		display: inline-block;
+	}
+
+
+.tile{
+	background-color: #1A1A1A;
+	display: inline-block;	
+	width: 238px;
+	margin-left: 1px;
+	padding-top: 30px;
+	height: 105px;
+}
+
+	.tile h3{
+		display: inline-block;
+		padding-right: 50px;
+	}
+
+	.tile p{
+		display: inline-block;
+		float: right;
+		width: 190px;
+		font-size: 16px;
+		color: silver;
+	}
+
+
+.tile2{
+	background-color: #1A1A1A;
+	display: inline-block;	
+	width: 238px;
+	margin-left: 1px;
+	padding-top: 30px;
+	height: 105px;
+}
+
+	.tile2 h3{
+		display: inline-block;
+		padding-right: 50px;
+		padding-left: 10px;
+	}
+
+	.tile2 p{
+		display: inline-block;
+		float: right;
+		width: 190px;
+		font-size: 16px;
+		color: silver;
+	}
+
+.tile3{
+	background-color: #1A1A1A;
+	display: inline-block;	
+	width: 238px;
+	margin-left: 1px;
+	padding-top: 30px;
+	height: 105px;
+}
+
+	.tile3 h3{
+		display: inline-block;
+		padding-right: 50px;
+		padding-left: 5px;
+	}
+
+	.tile3 p{
+		display: inline-block;
+		float: right;
+		width: 190px;
+		font-size: 16px;
+		color: silver;
+	}
+
+	.midtitle{
+		color: orange;
+	}
+
+	.bibe{
+		background-color: black;
+		padding: 40px;
+		color: white;
+		display: inline-block;
+		width: 889px;
+		background-image: url("http://cdn.designbeep.com/wp-content/uploads/2012/01/4.free-carbon-fiber-textures.jpg");
+	}
+		.bibe p{
+			width: 700px;
+			float: left;
+		}
+
+		.bibe button{
+			display: inline-block;
+			float: right;
+			height: 40px;
+			width: 120px;
+			margin-top: -10px;
+			margin-right: 5px;
+			border-radius: 5px;
+			color: silver;
+			background-color: orange;
+			font-size: 15px;
+			color: white;
+			margin-top: -18px;
+
+		}
+
+		.bibe h3{
+			margin-bottom: 10px;
+			width: 700px;
+		}
+
+	.port	{
+		background-color: #1A1A1A;
+	}
+
+		.divtile{
+			background-color: #1A1A1A;
+			display: inline-block;
+			width: 235px;
+			vertical-align: top;
+			margin-left: 5px;
+
+		}
+
+		.divtile1{
+			background-color: #1A1A1A;
+			display: inline-block;
+			width: 235px;
+			vertical-align: top;
+			padding-top: 72px;
+			margin-left: 5px;
+
+		}
+
+			.divtile img{
+				border: 5px solid gray;
+			}
+
+			.divtile1 img{
+				border: 5px solid gray;
+			}
+			.divtile h3{
+				color: white;
+				background-color: #1A1A1A;
+		    	padding-top: 30px;
+		    	padding-bottom: 20px;
+			}
+
+			.divtile p{
+				padding-top: 10px;
+				font-size: 13px;
+				color: white;
+			}
+
+			.divtile1 p{
+				padding-top: 10px;
+				font-size: 13px;
+				color: white;
+			}
+
+			.divtile h5{
+				padding-top: 8px;
+				color: orange;
+			}
+
+			.divtile1 h5{
+				padding-top: 8px;
+				color: orange;
+			}
+			.port a{
+				float: right;
+		    	padding-top: 24px;
+		    	background-color: #1A1A1A;
+		    	text-decoration: none;
+		    	color: orange;
+		    	font-size: 10px;
+		    	padding-bottom: 25px;
+			}
+
+			.divtile a{
+				margin-top: -20px;
+			}
+
+			#back{
+				float: right;
+				font-size: 10px;
+				margin-right: 15px;
+				color: silver;
+			}
