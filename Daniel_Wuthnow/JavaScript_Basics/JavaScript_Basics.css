@@ -1,0 +1,56 @@
+.Background{
+	background-color: darkblue;
+	width: 970px;
+	height: 625px;
+	padding: 10px;
+}
+
+.Title{
+
+	background-color: red;
+	border-radius: 5px;
+	color: white;
+	padding: 20px;
+	margin-bottom: 10px;
+}
+	.Title h1 {
+		margin:0;
+	}
+
+.SideBar{
+	background-color: teal;
+	display: inline-block;
+	font-size: small;
+	width: 20%;
+	vertical-align: top;
+	color: white;
+	border-radius: 20px;
+	padding: 10px
+}
+
+.no_dot{
+		list-style-type: none;
+	}
+
+.Main{
+	background-color: black;
+	display: inline-block;
+	font-size: small;
+	width: 705px;
+	border-radius: 20px;
+	color: white;
+	padding: 15px;
+	margin-left: 15px; 
+	margin-bottom: 10px;
+	
+}
+
+
+.Foot{
+	background-color: silver;
+	color: white;
+	border-radius: 15px;
+	padding: 4px;
+	
+}
+dont set height

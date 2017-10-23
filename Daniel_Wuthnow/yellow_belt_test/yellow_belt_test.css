@@ -1,0 +1,91 @@
+.doc{
+	width: 1200px;
+	background: #1a1a1a;
+	margin: 2px;
+}
+
+	.top{
+		color: white;
+		display: inline-block;
+		width: 1200px;
+	}
+
+	.top img{
+		display: inline-block;
+	}
+
+	.top p{
+		display: inline-block;
+		vertical-align: top;
+		text-align: right;
+		width: 925px;
+		align-self: right;
+		padding: 20px 0px;
+	}
+
+	.navBar{
+		width: 1160px;
+		background: silver;
+		color: white;
+		padding: 20px 0px 20px 40px;
+	}
+
+	.navBarR {
+		list-style-type: none;
+		margin: 0px;
+		padding: 0px;
+		overflow: hidden;
+	}
+
+	.navBarR li{
+		padding: 14px 16px;
+		display: inline;
+		border-right: 1px solid gray;
+	}
+	 #navBar{
+	 	padding: 14px 500px 14px 16px;
+		display: inline;
+		border-width: 0px 1px 0px 0px;
+		border-style: groove;
+	 }
+	.mainpic{
+
+	}
+
+	.selector{
+		display: inline-block;
+		margin: 0px;
+		padding: 0px;
+		overflow: hidden;
+	}
+
+	.icon{
+		width: 300px;
+		display: inline-block;
+	}
+
+	.selector div{
+		display: inline-block;
+	}
+
+	.selector div h3{
+		color: orange;
+	}
+
+	.selector div p{
+		color: white;
+	}
+
+	.strips{
+		background-repeat: 45deg, #1a1a1a, black;
+	}
+
+	.strips h2{
+		margin: 0px;
+		border: 0px;
+	}
+
+	.strips p{
+		margin: 0px;
+		border: 0px;
+	}

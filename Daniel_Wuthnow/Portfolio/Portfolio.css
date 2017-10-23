@@ -1,0 +1,242 @@
+.Background{
+background: lightgray;
+width: 1200px;
+}
+
+.top{
+background-color: lightgray;
+}
+
+	.top h1{
+		display: inline-block;
+		padding-left: 30px;
+	}
+
+	.top h2{
+		display: inline-block;
+		float: right;
+		padding-top: 10px;
+		padding-right: 30px;
+	}
+
+.blocks{
+width: 100%;
+background: radial-gradient(ellipse at center, rgba(203,131,107,1) 0%,rgba(92,44,28,1) 55%,rgba(137,87,71,1) 79%,rgba(75,30,15,1) 99%,rgba(75,30,15,1) 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+}
+
+	.about{
+		display: inline-block;
+		background: lightgray;
+		margin: 2%;
+		width: 45%;
+	}
+	.abouttext{
+		background: white;
+vertical-align: top;
+display: inline-block;
+width: 46%;
+margin: 2%;
+height: 357px;
+	}
+
+		.about_img{
+			display: inline-block;
+			
+			border: 2px white;
+			width: 99%;
+			padding: 2px;
+		}
+
+		.about_text{
+			display: inline-block;
+			background: white;
+		}
+
+			.about_text h2{
+				background: lightgray;
+				margin: 0px;
+				padding: 10px;
+			}
+
+			.about_text p{
+				padding: 10px;
+			}
+
+			.about_text a{
+				color: black;
+				padding: 10px;
+			}
+
+	.info{
+	margin-left: 35px;
+		}
+
+		.la_mode{
+			background: white;
+			display: inline-block;
+			vertical-align: top;
+			width: 30%;
+		}
+
+			#la_mode{
+				width: 100%;
+			}
+
+			.la_mode img{
+				width: 17%;
+				padding: 2px;
+			}
+
+			.la_mode h1{
+				background: lightgray;
+				color: white;
+				padding-bottom: 10px;
+				padding-top: 10px;
+				padding-left: 10px;
+				margin: 0px;
+			}
+
+			.la_mode p{
+				background: white;
+				padding-top: 15px;
+				padding-left: 15px;
+				padding-right: 15px;
+			    margin-top: 0px;
+			    margin-bottom: 0px;
+			    height: 175px;
+			}
+
+			.la_mode h2{
+				background: lightgray;
+				color: white;
+				padding-bottom: 10px;
+				padding-top: 10px;
+				padding-left: 10px;
+				margin: 0px;	
+			}
+
+		.family_contacts{
+			background: white;
+			display: inline-block;
+			vertical-align: top;
+			width: 30%;
+			margin-left: 30px;
+		}
+
+			#family_contacts{
+				width: 100%;
+			}
+
+			.family_contacts img{
+				width: 17%;
+				padding: 2px;
+			}
+
+			.family_contacts h1{
+				background: lightgray;
+				color: white;
+				padding-top: 10px;
+				padding-bottom: 10px;
+				padding-left: 10px;
+				margin: 0px;
+			}
+
+			.family_contacts p{
+				background: white;
+				padding-top: 15px;
+				padding-left: 15px;
+				padding-right: 15px;
+			    margin-top: 0px;
+			    margin-bottom: 0px;
+			    height: 175px;
+			}
+
+			.family_contacts h2{
+				background: lightgray;
+				color: white;
+				padding-bottom: 10px;
+				padding-top: 10px;
+				padding-left: 10px;
+				margin: 0px;	
+			}
+
+		.fiveeleven{
+			background: white;
+			display: inline-block;
+			width: 30%;
+			margin-left: 30px;
+			margin-bottom: 20px;
+		}
+
+			#fiveeleven{
+				width: 100%;
+			}
+
+
+			.fiveeleven img{
+				width: 17%;
+				padding: 2px;
+			}
+
+			.fiveeleven h1{
+				background: lightgray;
+				color: white;
+				padding-top: 10px;
+				padding-bottom: 10px;
+				padding-left: 10px;
+				margin: 0px;
+			}
+
+			.fiveeleven p{
+				background: white;
+				padding-top: 15px;
+				padding-left: 15px;
+				padding-right: 15px;
+			    margin-top: 0px;
+			    margin-bottom: 0px;
+			    height: 175px;
+			}
+
+			.fiveeleven h2{
+				background: lightgray;
+				color: white;
+				padding-bottom: 10px;
+				padding-top: 10px;
+				padding-left: 10px;
+				margin: 0px;	
+			}
+
+
+
+.submit{
+	border:1px solid black;
+	border-radius: 10px;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	width: auto;
+	background: green;
+	height: 25px;
+	padding: 5px;
+}
+
+.foot{
+	content: black
+	background: gray;
+	width: 1200px;
+	margin: 0px auto 10px auto;
+	padding: 10px;
+	text-align: center;
+}
+	.foot img{
+		width: 25px;
+	}
+
+	.foot a{
+		color: black;
+		font-style: italic;
+	}
