@@ -1,0 +1,343 @@
+#wrapper{
+	background-color: #F8F8F8;
+	color: #020100;
+	margin: 0px 50px 0px 50px;
+}
+
+#top{
+	display: block;
+}
+
+#title1{
+	font-size: 40px;
+	font-family: arial;
+	vertical-align: middle;
+	display: inline-block;
+	width: 50%;
+	font-weight: bold;
+	margin: 20px;
+	margin-left: 70px;
+	padding: 10px;
+}
+
+#title2{
+	text-align: right;
+	font-size: 20px;
+	font-family: times;
+	vertical-align: middle;
+	display: inline-block;
+	width: 30%;
+	font-weight: bold;
+	margin: 10px;
+	padding: 10px;
+}
+
+#back{
+	background-color: #614C56;
+	padding: 70px;
+	/*margin: 30px;*/
+
+}
+
+#foto{
+	width: 500px;
+	height: 300px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url(./Portfolio_images/photo_of_me.jpg);
+	display: inline-block;
+}
+#backFoto{
+	background-color: #C0C0C0;
+	padding: 5px;
+	width: 500px;
+	height: 300px;
+	display: inline-block;
+
+}
+
+#backAbout{
+	background-color: #FCFBFC;
+	padding: 0px;
+	width: 500px;
+	height: 310px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 70px;
+
+}
+#titleAbout{
+	background-color: #878593;
+	display: inline-block;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+	width: 500px;
+	height: 50px;
+	padding-top:5px;
+	padding-left:0px;
+	margin-left: 0px;
+}
+#contentAbout{
+	padding:5px;
+	margin-left: 10px;
+}
+
+
+#backLamode{
+	background-color: #FCFBFC;
+	padding: 0px;
+	width: 350px;
+	height: 500px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 70px;
+
+}
+#titleLamode{
+	background-color: #878593;
+	display: inline-block;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+	width: 350px;
+	height: 50px;
+	padding-top:5px;
+	padding-left:0px;
+	margin-left: 0px;
+}
+#contentLamode{
+	padding:5px;
+	margin-left: 10px;
+}
+
+
+#backFamily{
+	background-color: #FCFBFC;
+	padding: 0px;
+	width: 350px;
+	height: 500px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left:30px;
+	margin-top: 70px;
+
+}
+#titleFamily{
+	background-color: #878593;
+	display: inline-block;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+	width: 350px;
+	height: 50px;
+	padding-top:5px;
+	padding-left:0px;
+	margin-left: 0px;
+}
+#contentFamily{
+	padding:5px;
+	margin-left: 10px;
+}
+
+#backEleven{
+	background-color: #FCFBFC;
+	padding: 0px;
+	width: 315px;
+	height: 500px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left:30px;
+	margin-top: 70px;
+
+}
+#titleEleven{
+	background-color: #878593;
+	display: inline-block;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+	width: 315px;
+	height: 50px;
+	padding-top:5px;
+	padding-left:0px;
+	margin-left: 0px;
+}
+#contentEleven{
+	padding:5px;
+	margin-left: 10px;
+}
+
+#fotoLamode{
+	width: 350px;
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url(./Portfolio_images/lamode.png);
+	display: inline-block;
+}
+
+#fotoFamily{
+	width: 350px;
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*background-position: center;*/
+	background-image: url(./Portfolio_images/familycontacts.png);
+	display: inline-block;
+}
+
+#fotoEleven{
+	width: 315px;
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url(./Portfolio_images/fiveEleven.png);
+	display: inline-block;
+}
+
+
+#backTechL{
+	background-color: #FCFBFC;
+	padding: 0px;
+	width: 350px;
+	height: 250px;
+	display: inline-block;
+}
+
+#backTechM{
+	background-color: #FCFBFC;
+	padding: 0px;
+	width: 350px;
+	height: 250px;
+	display: inline-block;
+	margin-left: 30px;
+}
+#backTechR{
+	background-color: #FCFBFC;
+	padding: 0px;
+	width: 315px;
+	height: 250px;
+	display: inline-block;
+	margin-left: 30px;
+}
+
+#titleTechL{
+	background-color: #878593;
+	display: inline-block;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+	width: 350px;
+	height: 50px;
+	padding-top:5px;
+	padding-left:0px;
+	margin-left: 0px;
+}
+
+#titleTechR{
+	background-color: #878593;
+	display: inline-block;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+	width: 315px;
+	height: 50px;
+	padding-top:5px;
+	padding-left:0px;
+	margin-left: 0px;
+}
+#contentTechL{
+	padding:5px;
+	margin-left: 10px;
+}
+
+.imagen{
+	width: 45px;
+	height: 45px;
+	margin:5px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url(./Portfolio_images/php.png);
+	display: inline-block;
+}
+#php{background-image: url(./Portfolio_images/php.png);}
+#codeigniter{background-image: url(./Portfolio_images/codeigniter.png);}
+#jQuery{background-image: url(./Portfolio_images/jQuery.png);}
+#ajax{background-image: url(./Portfolio_images/ajax.png);}
+#mysql{background-image: url(./Portfolio_images/mysql.png);}
+#html5{background-image: url(./Portfolio_images/HTML.png);}
+#css3{background-image: url(./Portfolio_images/CSS.png);}
+#b{background-image: url(./Portfolio_images/bootstrap.png);}
+#JavaScript{background-image: url(./Portfolio_images/JavaScript.png);}
+#mongodb{background-image: url(./Portfolio_images/mongodb.png);}
+#expressjs{background-image: url(./Portfolio_images/expressjs.png);}
+#angular{background-image: url(./Portfolio_images/angular.png);}
+#nodejs{background-image: url(./Portfolio_images/nodejs.png);}
+#socket{background-image: url(./Portfolio_images/socket.png);}
+#python{background-image: url(./Portfolio_images/python.png);}
+#django{background-image: url(./Portfolio_images/django.png);}
+#d3{background-image: url(./Portfolio_images/d3.png);}
+#sqlite{background-image: url(./Portfolio_images/sqlite.png);}
+#git{background-image: url(./Portfolio_images/github.png);}
+#linkedin{background-image: url(./Portfolio_images/linkedin.png);}
+#twitter{background-image: url(./Portfolio_images/twitter.png);}
+#codepen{background-image: url(./Portfolio_images/codepen.png);}
+#materialize{background-image: url(./Portfolio_images/materialize.png);}
+
+#footer1{
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
+#footer2{
+	margin-left: 400px;
+	display: inline-block;
+	text-align: center;
+}
+
+.boton{
+	height: 40px;
+	width: 100px;
+	color: white;
+	background-color: #407D61;
+	display: inline-block;
+	text-align: center;
+	margin-left: 130px;
+	border:2px solid black;
+	border-radius: 20px;
+	font-weight: bold;
+}
+
+#buttonTechM{
+	width: 150px;
+	margin-left: 110px;
+
+}
+
+#buttonTechR{
+	width: 110px;
+	margin-left: 100px;
+
+}
+
+.imagen2{
+	width: 20px;
+	height: 20px;
+	margin:5px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	vertical-align: bottom;
+	display: inline-block;
+}
