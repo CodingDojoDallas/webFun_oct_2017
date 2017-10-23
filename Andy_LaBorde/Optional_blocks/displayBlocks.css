@@ -1,0 +1,49 @@
+#container {
+	width: 1000px;
+	background: tan;
+}
+.header {
+	text-align: center;
+	background: lightgrey;
+}
+	.header img {
+	width: 100px;
+	border: 3px solid black;
+	background: white;
+	margin-top: 10px;
+	}
+	.header h1{
+	display: inline-block;
+	} 
+/*#picboxes {
+	width: 1000px;
+}*/
+.box {
+	height: 160px;
+	width: 160px;
+	margin: 5px;
+	padding: 10px;
+	border: 2px solid black;
+	display: inline-block;
+}
+.box:nth-child(odd) {
+		background: lightblue;
+	}
+		.box:nth-child(odd) img {
+			background-color: white;
+		}
+	.box:nth-child(even) {
+		background: darkred;
+	}
+		.box:nth-child(even) img {
+			background-color: transparent;
+		}
+.row {
+	text-align: center;
+}
+.innerpic {
+	height: 160px;
+	width: 160px;
+}
+
+
