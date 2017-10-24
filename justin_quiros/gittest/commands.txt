@@ -1,0 +1,57 @@
+ 271  cd desktop
+  272  mkdir gittest
+  273  ls
+  274  cd gittest
+  275  ls
+  276  git status
+  277  git init
+  278  ls
+  279  mkdir index.html && styles.css && aboutMe.txt
+  280  ls
+  281  mkdir styles.cc
+  282  mkdir aboutMe.txt
+  283  ls
+  284  git commit -m "Created index.html styles.css and aboutMe.txt"
+  285  ls
+  286  git add
+  287  git add .
+  288  git commit -m "Created index.html styles.css and aboutMe.txt"
+  289  ls
+  290  git status
+  291  git add .
+  292  git status
+  293  git add .
+  294  ls
+  295  touch index.html
+  296  touch styles.css
+  297  touch aboutMe.txt
+  298  ls
+  299  git add .
+  300  git status
+  301  git commit -m "Created index.html styles.css and aboutMe.txt"
+  302  git log
+  303  open aboutMe.txt
+  304  open aboutMe.txt
+  305  open aboutMe.txt
+  306  git status
+  307  git add .
+  308  git commit -m "Added a small bio about myslef in aboutMe.txt"
+  309  git status
+  310  open aboutMe.txt
+  311  git status
+  312  git add .
+  313  git commit -m "Added favorite movie to aboutMe.txt"
+  314  git log
+  315  git revert 107371eef451d710db0988a0f1796e27df1a1a63
+  316  ls -a
+  317  vim index.html
+  318  git status
+  319  git og
+  320  git log
+  321  open aboutMe.txt
+  322  git status
+  323  git add .
+  324  git commit -m "Added favorite book to aboutme.txt"
+  325  git log
+  326  history
+Justins-MacBook-Pro:gittest JQuiros$ 
