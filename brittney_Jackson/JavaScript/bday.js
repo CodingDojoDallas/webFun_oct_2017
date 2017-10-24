@@ -10,7 +10,7 @@ function myBday()
 		else if(i>0){
 			console.log(i + " DAYS UNTIL MY BIRTHDAY...I DONT WANNA BE OLDER...WAAAHHHH");
 		}
-		else if(i=0){
+		else{
 			console.log("Happy birthday to me. throws Party for self bleh");
 		}
 	}
