@@ -1,0 +1,100 @@
+RichNamk-2:~ richardnamkoong$ ls
+(null)		Desktop		Downloads	Movies		Pictures	testdisk.log
+Applications	Documents	Library		Music		Public
+RichNamk-2:~ richardnamkoong$ cd Desktop/
+RichNamk-2:Desktop richardnamkoong$ mkdir gittest
+RichNamk-2:Desktop richardnamkoong$ cd gittest/
+RichNamk-2:gittest richardnamkoong$ touch index.html styles.css aboutMe.txt
+RichNamk-2:gittest richardnamkoong$ git commit -m "added our favorite quote"
+fatal: Not a git repository (or any of the parent directories): .git
+RichNamk-2:gittest richardnamkoong$ git commit -m commet
+fatal: Not a git repository (or any of the parent directories): .git
+RichNamk-2:gittest richardnamkoong$ git init
+Initialized empty Git repository in /Users/richardnamkoong/Desktop/gittest/.git/
+RichNamk-2:gittest richardnamkoong$ touch index.html styles.css aboutMe.txt
+RichNamk-2:gittest richardnamkoong$ git commit -m commet
+On branch master
+
+Initial commit
+
+Untracked files:
+	aboutMe.txt
+	index.html
+	styles.css
+
+nothing added to commit but untracked files present
+RichNamk-2:gittest richardnamkoong$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+RichNamk-2:gittest richardnamkoong$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+RichNamk-2:gittest richardnamkoong$ git add .
+RichNamk-2:gittest richardnamkoong$ git commit -m whatDaFun
+[master (root-commit) 34a60cb] whatDaFun
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 aboutMe.txt
+ create mode 100644 index.html
+ create mode 100644 styles.css
+RichNamk-2:gittest richardnamkoong$ git status
+On branch master
+nothing to commit, working tree clean
+RichNamk-2:gittest richardnamkoong$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   aboutMe.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+RichNamk-2:gittest richardnamkoong$ git add .
+RichNamk-2:gittest richardnamkoong$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   aboutMe.txt
+
+RichNamk-2:gittest richardnamkoong$ git commit -m "about me file update"
+[master 55caf6e] about me file update
+ 1 file changed, 1 insertion(+)
+RichNamk-2:gittest richardnamkoong$ git status
+On branch master
+nothing to commit, working tree clean
+RichNamk-2:gittest richardnamkoong$ git add .
+RichNamk-2:gittest richardnamkoong$ git commit -m "add fave movie"
+[master a89b4ee] add fave movie
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+RichNamk-2:gittest richardnamkoong$ git log
+commit a89b4ee36e6a144535fd9b0e397be02c8c34b7c4 (HEAD -> master)
+Author: richnamk <richnamk@gmail.com>
+Date:   Tue Oct 17 17:55:21 2017 -0500
+
+    add fave movie
+
+commit 55caf6e93064d95ec516216d4e2a8261a537f33a
+Author: richnamk <richnamk@gmail.com>
+Date:   Tue Oct 17 17:54:01 2017 -0500
+
+    about me file update
+
+commit 34a60cbfc6661df3544e0b3455241284b209986f
+Author: richnamk <richnamk@gmail.com>
+Date:   Tue Oct 17 17:44:45 2017 -0500
+
+    whatDaFun
+RichNamk-2:gittest richardnamkoong$ git revert -n HEAD
+RichNamk-2:gittest richardnamkoong$ status
+-bash: status: command not found
+RichNamk-2:gittest richardnamkoong$ git revert head
+error: your local changes would be overwritten by revert.
+hint: commit your changes or stash them to proceed.
+fatal: revert failed
+RichNamk-2:gittest richardnamkoong$ git add .
+RichNamk-2:gittest richardnamkoong$ git commit -m "add fave book"
+[master 0fa7081] add fave book
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+RichNamk-2:gittest richardnamkoong$ 

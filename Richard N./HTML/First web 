@@ -1,0 +1,44 @@
+<!DOCTYPE html> <!-- tells the browser I'm using HTML 5 
+<html> <!-- html tag aka html element
+	<head> <!-- head is the properties of the html file
+		<title> My First Website</title>
+	 	<meta charset="itf-8">
+	 	<meta type="description" content="this is what you will see on Google">
+	 	<!-- link CSS Stylesheets -->
+	 	<!--  loading Java Script script files -->
+	 </head>
+	<body>
+		<!-- the body contains all litteral content on my HTML page -->
+		<div> <!-- divs divaide content (multiple elements) into logical groups -->
+			<h1>Hello World
+			h2
+			h3
+			h4
+			h5
+			h6
+		div
+		div
+			<p>
+		div
+		<!-- unordered list (bullets)
+			<ul
+				<li> </li>
+		<!--  ordered lists (numbers)
+		div
+			table
+				thead
+					tr 
+						th or tb (table head or body)
+
+				tbody
+		div
+			forms
+				div
+					imput type="text"
+				div
+					imput type="number"
+				div
+					imput type="sting"
+					
+	body
+</html>

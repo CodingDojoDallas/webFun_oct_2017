@@ -1,0 +1,81 @@
+#container{
+	width: 933px;
+	background-color: #002233;
+}
+.name{
+	color: #FFFFFF;
+	display: inline-block;
+}
+.name span{
+	color: #006ACC;
+	}
+.navbar{
+	display: inline-block;
+}
+.navbar h4{
+	text-align: right;
+	color: #0066C9;
+}
+.navbar span{
+	color: #D4E3F6;
+}
+#midbox{
+	border-spacing: 33px 15px 5px 15px;
+	background-color: white;
+}
+#snow{
+	margin: 20px;
+	width: 900px;
+}
+#box3{
+	color: white;
+	font-size: 12px;
+}
+.box3{
+	vertical-align: top;
+	display: inline-block;
+	width: 289px;
+	background-color: #0068D2;
+	margin: 6px;
+	font-size: 12px;
+}
+button{
+	margin: 20px;
+	border-radius: 10px;
+	width: 130px;
+	height: 40px;
+	font-size: 20px;
+	color: white;
+	background-color: #2699ff;
+}
+.cir{
+	display: inline-block;
+	width: 40px;
+}
+h3{
+	display: inline-block;
+}
+.box3a{
+	vertical-align: top;
+
+	display: inline-block;
+	width: 289px;
+	font-size: 12px;
+	margin: 6px;
+}	
+#foot{
+	padding-top: 1px;
+	padding-bottom: 1px;
+	font-size: 15px;
+	text-align: center;
+	background-color: #b7d8f4;
+}
+#foot h4{
+	color: #9ec3e2
+}
+#foot span{
+	color: #2b89db
+}
+.text{
+	margin-top: 100px;
+}
