@@ -1,0 +1,63 @@
+header {
+	background-color: white;
+	color: white; 
+	width: 1200px;
+}
+header h1{
+	padding: 23px;
+	display: inline-block;
+	color: black;
+	font-family: verdana; 
+	width: 30%;
+}
+header h3{
+	display: inline-block;
+	color: black;
+	font-family: verdana;
+	text-align: right;
+	width: 62%;
+}
+body{
+	background-color: purple;
+	width: 1200px;
+}
+#main .port{
+	display: inline-block;
+	vertical-align: top;
+	width: 600px;
+}
+#main .about{
+	display: inline-block;
+	vertical-align: top;
+	width: 500px
+}
+#bottombox img{
+	width: 300px;
+}
+#bottombox .icon{
+	width: 60px;
+}
+.box1{
+	vertical-align: top;
+	display: inline-block;
+	width: 30%;
+}
+.box2{
+	vertical-align: top;
+	display: inline-block;
+	width: 30%;
+}
+.box3{
+	vertical-align: top;
+	display: inline-block;
+	width: 30%
+}
+#contacts{
+	text-align: center;
+}
+#contacts img{
+	width: 20px;
+}
+#bottombox h2{
+	border: black 2px:
+}

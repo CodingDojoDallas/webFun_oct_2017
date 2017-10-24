@@ -1,0 +1,68 @@
+body{
+	width: 1000px;
+	background-color: #1a1a1a;
+	color: white;
+}
+#logo{
+	display: inline-block;
+}
+#Contact{
+	float: right;
+	vertical-align: top;
+	display: inline-block;
+	text-align: right;
+}
+#navbar{
+	border-radius: 1px;
+	background-color: darkgrey;
+	border-image-width: center;
+}
+.img1{
+	background-color: grey;
+	color: white;
+	text-decoration-line: none;
+}
+.pic1{
+	display: inline-block;
+	vertical-align: top;
+}
+.otext{
+	vertical-align: top;
+	color: orange;
+	font-size: small;
+}
+.folpic{
+	display: inline-block;
+}
+p{
+	font-size: xx-small;
+	
+}
+#buynowbar{
+	background: repeating-linear-gradient(
+  -45deg,
+  grey,
+  black 2px,
+  grey 2px,
+  black 2px
+);
+}
+#buynowbar h5{
+	display: inline-block;
+}
+#buynowbar p{
+	display: inline-block;
+}
+#buynowbar button{
+	float: right;
+	background-color: orange;
+	border-radius: 5px;
+}
+#port{
+	font-size: xx-small;
+
+}
+.fol1{
+	display: inline-block;
+
+}

@@ -1,0 +1,9 @@
+command + space = terminal
+cd Desktop
+mkdir test
+cd test
+	touch index.html styles.css commands.txt
+cp index.html index_2.html
+rm styles.css
+rm -r destination
+

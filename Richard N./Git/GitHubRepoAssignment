@@ -1,0 +1,35 @@
+RichNamk-2:Desktop richardnamkoong$ cd GitHubRepoAssignment/
+RichNamk-2:GitHubRepoAssignment richardnamkoong$ git init
+Initialized empty Git repository in /Users/richardnamkoong/Desktop/GitHubRepoAssignment/.git/
+RichNamk-2:GitHubRepoAssignment richardnamkoong$ git add README.md
+fatal: pathspec 'README.md' did not match any files
+RichNamk-2:GitHubRepoAssignment richardnamkoong$ touch readme.md
+RichNamk-2:GitHubRepoAssignment richardnamkoong$ status
+-bash: status: command not found
+RichNamk-2:GitHubRepoAssignment richardnamkoong$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	readme.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+RichNamk-2:GitHubRepoAssignment richardnamkoong$ git add .
+RichNamk-2:GitHubRepoAssignment richardnamkoong$ git commit -m "added contents"
+[master (root-commit) 19d3d83] added contents
+ 1 file changed, 1 insertion(+)
+ create mode 100644 readme.md
+RichNamk-2:GitHubRepoAssignment richardnamkoong$ git remote add origin https://github.com/richnamk/GitHubRepoAssignment.git
+RichNamk-2:GitHubRepoAssignment richardnamkoong$ git push -u origin master
+Username for 'https://github.com': richnamk
+Password for 'https://richnamk@github.com': 
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 232 bytes | 232.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/richnamk/GitHubRepoAssignment.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+RichNamk-2:GitHubRepoAssignment richardnamkoong$ 
