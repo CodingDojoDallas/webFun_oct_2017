@@ -1,0 +1,96 @@
+body{
+	width:1000px;
+}
+#header{
+	width: 100%;
+}
+#header h1{
+	/*width: 30%;*/
+	padding-left: 20px;
+	display: inline-block;
+}
+#header h2{
+	text-align: right;
+	display: inline-block;
+	/*width: 80%;trying different techniques*/
+	margin-left: 45%;
+}
+#wrapper{
+	background-color: purple;
+	padding: 15px;
+}
+.booger1{
+	display: inline-block;
+	width: 30%;
+	padding-left: 10px;
+	vertical-align: top;
+	margin-top: 20px;
+	height: 220px;
+}
+#About{
+	color: black;
+	display: inline-block;
+	width: 60%;
+	margin-left: 50px;
+	padding: 10px;
+	height: 200px;
+	background-color: brown;
+	vertical-align: top;
+	margin-top: 20px;
+}
+#About h3{
+	color: white;
+	vertical-align: top;
+	background: silver;
+}
+#body{
+	display: inline-block;
+	width: 1000px;
+}
+	#body p{
+		height: 140px;
+	}
+.cutie{
+	height: 40px;
+}
+#body1{
+	color: black;
+	background: white;
+	display: inline-block;
+	width: 30%;
+	margin-left: 10px;
+	height: 470px;
+}
+#body2{
+	color: black;
+	background: white;
+	display: inline-block;
+	width: 30%;
+	margin-left: 25px;
+	vertical-align: top;
+	height: 470px;
+
+}
+#body3{
+	color: black;
+	background: white;
+	display: inline-block;
+	width: 30%;
+	margin-left: 30px;
+	vertical-align: top;
+	height: 470px;
+}
+#body1 .first, #body2 .two, #body3 .three{
+	width: 90%;
+/*	padding: 5px;
+*/	vertical-align: top;
+}
+footer{
+	margin:0 auto;
+	width: 1000px;
+	text-align: center;
+}
+	footer img{
+		display: inline-block;
+		height: 15px;
+	}
