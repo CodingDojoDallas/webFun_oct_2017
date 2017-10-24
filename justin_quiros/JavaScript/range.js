@@ -1,11 +1,24 @@
-function printRange(){
-	var x = -2;
-	var y = 8;
-	var z = 1;
-
-	for(var i = x; i < y; i += z){
+function printRange(start, end, skip){
+	for(var i = start; i < end; i += skip){
 		console.log(i)
 	}
 }
 
-printRange()
+printRange(6,10,1)
+
+
+
+function bonus(start, end, skip){
+	if(!end){
+		end = start;
+		start = 0
+		skip = 1;
+	}
+	if(!skip){
+		skip = 1
+	}
+	for(var i = start; i < end; i += skip){
+		console.log(i);
+	}
+}
+bonus(7)

@@ -1,4 +1,5 @@
-function penny(){
+
+penny()function penny(){
 	var money = .005;
 	var day = 0;
 
@@ -14,8 +15,8 @@ function penny(){
 		if(money >= 1000000000  && money <= 2000000000){
 			console.log("It took " + day + " days to reach $1B+")
 		}
+		
 	}
 }
 
-penny()
 
