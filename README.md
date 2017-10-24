@@ -12,6 +12,7 @@ https://www.dropbox.com/s/h3texmoqm801j8w/github_workflow_v4.pdf?dl=0
 [GitHub - Forking Repositories](https://youtu.be/uAUUfFYoN90 "GitHub - Forking Repositories") <br>
 [CSS - Display Your Blocks Demo](https://youtu.be/3LVV-HQgBAs "CSS - Display Your Blocks Demo") <br>
 [JS - JavaScript 101](https://youtu.be/bkMf4k83xoY "JS - JavaScript 101") <br>
+[JS - JavaScript Objects](https://youtu.be/XL75iX0RPCo "JS - JavaScript Objects") <br>
 
 # Resources
 [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript "MDN JavaScript Documentation") <br>
