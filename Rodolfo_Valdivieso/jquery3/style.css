@@ -1,0 +1,48 @@
+body{
+	font-family: arial;
+	background-color: purple;
+}
+
+.container{
+	margin:0 10% 0 40% ;
+	/*margin:0 100px 0 300px ;*/
+	display: block;
+}
+
+.image{
+
+	width: 240px;
+	height: 50px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	/*background-image: url(./images/linkedin.png);*/
+	display: block;
+	border-radius: 10px;
+	border: 5px solid white;
+	margin: 0 0 10px 0 ;
+}
+
+.button{
+	border-radius: 10px;
+	margin: 20px 0 0 600px;
+	/*margin:10% 10% 10% 10%;*/
+	width: 130px;
+	height: 50px;
+	font-family: arial;
+	font-size: 20px;
+	background-color: green;
+	color: white;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	border-right-style: solid;
+	border-right-color: black;
+}
+
+.title{
+	color: white;
+	font-size: 50px;
+	font-family: arial;
+	display: block;
+	text-align: center;
+}
