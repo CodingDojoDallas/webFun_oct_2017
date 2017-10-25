@@ -1,0 +1,38 @@
+body{
+	font-family: arial;
+}
+
+.top{
+	margin: 0 100px 0 100px;
+}
+
+.logo{
+	width: 80px;
+	height: 80px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url(./images/globe.png);
+	display: inline-block;
+
+}
+
+.title{
+	display: inline-block;
+	font-size: 40px;
+	color:#474747;
+	margin-bottom: 15px;
+	vertical-align: top;
+
+}
+#net{
+	color: blue;
+}
+
+.title2{
+	color: white;
+	background-color: #4C7FAB;
+	margin: 0 100px 0 100px;
+	padding: 10px 0 10px 10px;
+
+}
