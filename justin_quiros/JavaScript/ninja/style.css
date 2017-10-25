@@ -1,0 +1,28 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.container{
+	width: 970px;
+	background-color: yellow;
+}
+
+.main{
+	text-align: center;
+	height: 525px;
+}
+img{
+	width: 208px;
+	height: 175px;
+	padding: 15px;
+
+}
+
+h2{
+	padding: 20px 0px 20px 50px;
+}
+
+.restore{
+	text-align: center;
+}
