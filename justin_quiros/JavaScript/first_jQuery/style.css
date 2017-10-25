@@ -1,0 +1,40 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.container{
+	width: 970px;
+}
+
+.main{
+
+}
+
+.sub{
+	width: 400px;
+	border: solid 1px red;
+	display: inline-block; 
+	padding: 30px 30px 15px 30px;
+	margin: 10px;
+	text-align: center;
+}
+	.sub h4{
+		margin-bottom: 15px;
+	}
+
+	.sub button{
+		height: 40px;
+	}
+
+#h43{
+	display: none;
+}
+
+#h45{
+	display: none;
+}
+
+#h47{
+	display: none;
+}
