@@ -1,0 +1,107 @@
+.wrapper{
+	width: 970px;
+	background: darkblue;
+}
+.header{
+	display: inline-block;
+	padding: 5px;
+	width: 970px;
+}
+	.header h4{
+		background: blue;
+		display: block;
+		width: 80%;
+		color: white;
+		text-align: center;
+		margin-left: 60px;
+	}
+	.header img{
+		display: inline-block;
+		width: 360px;
+	}
+.top{
+	display: inline-block;
+	width: 300px;
+	margin-left: 250px;
+	text-align: right;
+	vertical-align: top;
+}
+	.top .search{
+		width: 250px;
+		display: inline-block;
+		border: 10px solid black;
+		vertical-align: top;
+		margin-top: 10px;
+		background: black;
+	}
+	.search button{
+		color: white;
+		background: blue;
+	}
+.body{
+	display: inline-block;
+	color: white;
+	width: 970px;
+}
+	.body ul{
+		display: inline-block;
+		width: 200px;
+		height: 300px;
+		vertical-align: top;
+		text-align: center;
+	}
+	.body .top-right{
+		display: inline-block;
+		width: 600px;
+		height: 300px;
+		text-align: center;
+	}
+	.body h3{
+		display: block;
+		color: yellow;
+	}
+		.body .zen{
+			color:white;
+		}
+	.body span{
+		display: block;
+	}
+.body2{
+	display: inline-block;
+	background: white;
+	color: black;
+	padding: 10px;
+	width: 100%;
+}
+	.left{
+		display: inline-block;
+		width: 40%;
+		text-align: center;
+		vertical-align: top;
+		margin:0 10px;
+		padding-left:40px;
+	}
+	.right{
+		display: inline-block;
+		width: 40%;
+		vertical-align: top;
+		text-align: center;
+		margin: 0 10px;
+	}
+.footer{
+	display: inline-block;
+	color: grey;
+	vertical-align: top;
+	text-align: center;
+	width: 100%;
+	height: 60px;
+	padding-top: 30px;
+}
+.footer h4{
+	display: inline-block;
+	margin: 0 10px;
+}
+.footer span{
+	display: block;
+	margin-top: 20px;
+}
