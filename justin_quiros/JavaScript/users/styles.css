@@ -1,0 +1,40 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.container{
+	width: 970px;
+	padding: 50px;
+	background-color: silver;
+}
+table{
+	border: solid 2px black;
+	margin-bottom: 40px;
+}
+	table td{
+		padding-right: 20px;
+	}
+
+	table tr{
+		/*display: inline-block;*/
+	}
+
+h1{
+	border-bottom: solid 2px black;
+	width: 300px;
+	margin-bottom: 20px;
+}
+
+form{
+	width: 225px;
+	text-align: right;
+	padding-left: 76px;
+
+}
+
+#submit{
+	margin-top: 30px;
+	margin-left: 238px;
+	height: 20px;
+}

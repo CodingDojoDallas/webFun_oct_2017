@@ -6,7 +6,7 @@ function object(){
      {first_name : 'KB', last_name : 'Tonel'}
 ]
 	for(var i = 0; i < students.length; i++){
-		console.log(`${students[i].first_name} ${students[i].last_name}`)
+		console.log(`${students[i].first_name} ${students[i].last_name}`);
 	}	
 }
 object();
