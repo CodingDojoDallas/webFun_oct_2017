@@ -6,9 +6,9 @@ $(document).ready(function(){
 		$('.box').css('background-color', 'white');
 	}),
 	
-	 		$('button.b2').click(function(){
-	 		setInterval(timer, 100);
-		})
+	 $('button.b2').click(function(){
+	 	setInterval(timer, 100);
+	})
 		function timer(){
 			$('.box').each(function(){
 				$(this).css('background-color', random());
