@@ -26,8 +26,14 @@
              })
              $('.side_box').click(function(event){
                 event.stopPropagation();
-                alert('you clicked the sides boxes');
-                $('.side_box').siblings().css('background-color', random_color());
+                // alert('you clicked the sides boxes');
+                $(this).siblings().css('background-color', random_color());
+                console.log($('.side_box').siblings())
+                // $('.side_box').siblings().each(function(test){
+                //   console.log('test: ', $('.side_box').siblings()[test]);
+                //   console.log('this: ', $(this));
+                // })
+                // $('.side_box').siblings().css('background-color', random_color());
                 
 
              })
