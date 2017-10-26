@@ -65,7 +65,7 @@ $(document).ready(function(){
 
 	$('#val').click(function(){
 		alert("Value: "+ $("#valtest").val())
-
+	})
 
 	// $('#text').click(function(){
 	// 	alert("Text: " + $("#test").text());
