@@ -1,0 +1,29 @@
+var numb2=3
+console.log("I am "+numb2)
+
+var holycow=6
+console.log("yes", holycow)
+
+var yesyap=1.2
+console.log(yesyap)
+
+var computer=-494
+console.log("lightsaber" + computer)
+
+var ipman='Bruce Lee'
+console.log('is this really' + ipman + 'the greatest?')
+
+var po='Dragon Warrior'
+console.log('the great' + po)
+
+var creative='i am'
+console.log(creative)
+
+var iamthegoat= true;
+console.log(iamthegoat)
+
+var amidoingtherightthing= true;
+console.log(amidoingtherightthing)
+
+var thisisit='doo wop"
+console.log(thisisit)
