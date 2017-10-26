@@ -14,6 +14,7 @@ https://www.dropbox.com/s/h3texmoqm801j8w/github_workflow_v4.pdf?dl=0
 [JS - JavaScript 101](https://youtu.be/bkMf4k83xoY "JS - JavaScript 101") <br>
 [JS - JavaScript Objects](https://youtu.be/XL75iX0RPCo "JS - JavaScript Objects") <br>
 [jQuery - The Basics](https://youtu.be/SbSBuOlCsgY "jQuery - The Basics") <br>
+[jQuery - Ninja to Cat Demo](https://youtu.be/fcUhnXdSy1c "jQuery - Ninja to Cat Demo") <br>
 
 # Resources
 [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript "MDN JavaScript Documentation") <br>
