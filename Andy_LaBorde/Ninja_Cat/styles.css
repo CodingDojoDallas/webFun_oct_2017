@@ -1,0 +1,13 @@
+.container{
+	width: 343px;
+	background: black;
+	margin: auto;
+	padding: 27px;
+	border-radius: 365px;
+}
+img{
+	margin: 10px auto;
+	display: block;
+	border: 2px solid gold;
+	align-content: center;
+}
