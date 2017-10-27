@@ -1,0 +1,29 @@
+#container{
+	background: purple;
+	width: 600px;
+	height: 300px;
+	padding: 15px;
+	margin: auto;
+}
+
+#table{
+	border: 2px solid black;
+	margin: 10px;
+	width: 570px;
+}
+th{
+	padding-right: 45px;
+}
+h2{
+	text-align: left;
+	border-bottom: 3px solid black;
+	width: 300px;
+}
+#user{
+	width: 300px;
+	text-align: right;
+	padding: 5px 0px;
+}
+button{
+	margin-top: 20px;
+}
