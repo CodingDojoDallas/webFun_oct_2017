@@ -1,0 +1,14 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+#container{
+	background-color: yellow;
+	width: 1020px;
+}
+
+#container h1{
+	text-align: center;
+	margin-bottom: 20px;
+}
