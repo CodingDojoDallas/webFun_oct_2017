@@ -1,0 +1,19 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	text-align: center;
+	width: 970px;
+	background-color: black;
+	/*padding: 200px;*/
+}
+
+img{
+	text-align: center;
+	display: block;
+	border: solid 5px red;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
