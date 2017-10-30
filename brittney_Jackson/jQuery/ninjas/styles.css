@@ -1,0 +1,36 @@
+#container{
+	width:1000px;
+	margin: auto;	
+	background: grey;
+	border: 2px solid red;
+	border-radius: 22px;
+}
+h2{
+	text-align: center;
+	color: red;
+	padding-top:20px;
+}
+#Ninjas{
+	/*border:1px solid red;*/
+	display: inline-block;
+	height: 245px;
+	width: 245px;
+
+}
+img{
+	width:201px;
+	margin: 20px;
+	border: 2px solid red;
+	border-radius: 22px;
+}
+button{
+	width: 200px;
+	padding: 20px 0px;
+	border-radius: 10px;
+	border: 2px solid red;
+}
+
+#button{
+	padding: 20px 390px;
+
+}

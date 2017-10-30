@@ -1,0 +1,13 @@
+#flipIt{
+	width: 300px;
+	background: grey;
+	margin: auto;
+	border: 2px solid red;
+	
+}
+img{
+	display: block;
+	width:200px;
+	padding: 5px 55px;
+
+}

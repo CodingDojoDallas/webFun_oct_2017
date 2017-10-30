@@ -1,0 +1,19 @@
+#container{
+	width: 1000px;
+	margin: auto;
+	background: teal;
+	padding-top: 15px;
+}
+#header{
+	width: 900px;
+	margin: 0px 40px;
+	padding:10px;
+	background: grey;
+}
+#info{
+	padding: 50px;
+}
+input{
+	margin: 5px 0px;
+	/*padding: 10px 0px;*/
+}

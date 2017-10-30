@@ -1,0 +1,73 @@
+#container{
+	background: teal;
+	max-width:1000px;
+	margin: auto;
+	border: 2px solid black;
+}
+#header{
+	background: white;
+	margin:10px;
+	padding:20px;
+	color: teal;
+	text-align: center;
+	text-decoration: underline;
+	border: 2px solid black;
+}
+span{
+	color:teal;
+}
+.info{
+	width:300px;
+	display: inline-block;
+	margin:10px;
+	padding:3px;
+	vertical-align: top;
+	background: white;
+	border: 2px solid black;
+
+}	
+	.info img{
+		background: white;
+		width:300px;
+
+	}
+	.info button{
+		width:300px;
+		color: white;
+		background: black;
+		
+	}
+	.info p{
+		height: 100px;
+		padding: 0px 5px;
+		color: black;
+	}
+		p .pclass{
+			color: teal;
+		}
+	.info h3{
+		text-align: center;
+		background: ;
+	}
+
+	#slidedimg{
+		display: none;
+	}
+	#slidetimg{
+		display: none;
+	}
+	
+
+#footer{
+	background: white;
+	margin:10px;
+	padding:20px;
+	text-align: center;
+	font-style: italic;
+	border: 2px solid black;
+}
+	#footer a{
+		text-decoration: none;
+		color: teal;
+	}
+
