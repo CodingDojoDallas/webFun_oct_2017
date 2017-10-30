@@ -1,0 +1,91 @@
+body{
+	font-family: arial;
+	background-color: gray;
+}
+
+.container{
+	margin:0 100px 0 300px ;
+	display: block;
+}
+
+.image{
+
+	width: 120px;
+	height: 120px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	/*background-image: url(./images/linkedin.png);*/
+	display: inline-block;
+	border-radius: 10px;
+	border: 5px solid black;
+	margin: 20px 0 20px 20px;
+}
+
+.button{
+	border-radius: 10px;
+	margin: 20px 0 0 600px;
+	/*margin:10% 10% 10% 10%;*/
+	width: 130px;
+	height: 50px;
+	font-family: arial;
+	font-size: 20px;
+	background-color: green;
+	color: white;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	border-right-style: solid;
+	border-right-color: black;
+}
+
+.title{
+	color: white;
+	font-size: 50px;
+	font-family: arial;
+	display: block;
+	text-align: center;
+}
+/*
+.test{
+
+	background-color: black;
+	color: white;
+	width: 200px;
+	height: 50px;
+}
+
+.test2{
+
+	background-color: red;
+	color: blue;
+	width: 200px;
+	height: 50px;
+}
+
+button{
+	background-color: gray;
+	color: white;
+	border-radius: 15px;
+	width: 200px;
+	height: 40px;
+	margin:0  10px 0 200px;
+}
+
+input{
+	background-color: blue;
+	color: white;
+	border-radius: 15px;
+	width: 200px;
+	height: 40px;
+	margin:0  10px 0 100px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 15;
+}
+
+.title{
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	color: gray;
+}*/
