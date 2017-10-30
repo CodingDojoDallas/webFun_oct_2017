@@ -1,0 +1,38 @@
+.container{
+	width: 1000px;
+	background: lightgrey;
+	padding: 10px;
+}
+.box {
+	background: grey;
+	margin: 10px;
+}
+.box h1{
+	display: inline-block;	
+	margin: 5px;
+}
+.box button:first-child{
+	display: inline-block;
+	margin-right: 352px;
+	margin-left: 100px;
+	background: green;
+}
+.box p{
+	margin: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+#meme{
+	display: none;
+	margin: 10px;
+}
+#p8{
+	display: none;
+}
+.Gold{
+	color: gold;
+}
+#andy{
+	color: maroon;
+	font-weight: bolder;
+}
